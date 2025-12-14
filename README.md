@@ -6,7 +6,7 @@
     <em>Building scalable systems at the intersection of Intelligent Automation, Deep Learning, and Robotics.</em>
   </p>
 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href=https://www.linkedin.com/in/chanakya-j-432934227/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chanakya.jarubula@gmail.com">
