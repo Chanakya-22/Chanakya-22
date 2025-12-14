@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/Chanakya-22">Your Name</a>! 👋</h1>
-  <h3>🚀 Backend Engineer | AI & Robotics Researcher | DevOps Enthusiast</h3>
+  <h1>Hi there, I'm <a href="https://github.com/Chanakya-22">Chanakya</a>! 👋</h1>
+  <h3>🚀 Backend Engineer | AI & DS Researcher | DevOps Enthusiast</h3>
   
   <p>
     <em>Building scalable systems at the intersection of Intelligent Automation, Deep Learning, and Robotics.</em>
