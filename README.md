@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://github.com/Chanakya-22">Chanakya</a>! 👋</h1>
   <h3>🚀 Backend Engineer | AI & DS Researcher | DevOps Enthusiast</h3>
-  
+   
   <p>
     <em>Building scalable systems at the intersection of Intelligent Automation, Deep Learning, and Robotics.</em>
   </p>
@@ -25,9 +25,9 @@
 ---
 
 ### 🧠 Technical Arsenal & Core Competencies
-*Leveraging advanced algorithms, DevOps architectures, and Deep Learning to build scalable systems.*
+*Actively applying advanced algorithms, DevOps architectures, and Deep Learning to build scalable systems.*
 
-| Domain | Mastered Technologies & Concepts |
+| Domain | Currently Working On |
 | :--- | :--- |
 | **AI & Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) <br> **Concepts:** Deep Neural Networks (DNN), Reinforcement Learning (RL), LSTMs, Prompt Engineering, NLP |
 | **Backend & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) <br> **Concepts:** REST API Management, Vector Databases, Microservices, Async Programming |
@@ -60,4 +60,3 @@
 - [ ] **Generative AI Ops:** Building pipelines for LLM fine-tuning and deployment.
 
 ---
-
