@@ -1,8 +1,4 @@
-# Hi, I'm Chanakya 👋
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chanakya-22&label=Profile%20Views&color=0e75b6&style=flat" alt="Chanakya-22" />
-</p>
+# Chanakya
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chanakya-k-s-792017181" target="blank">
@@ -15,33 +11,36 @@
 
 ---
 
-## Professional Summary
-I am a Software Engineer at the Amrita School of AI, specializing in scalable backend architectures and MLOps. My work focuses on bridging the gap between machine learning research and production-grade deployment, specifically in the realms of proactive infrastructure and container orchestration.
+## About
+I am a Software Engineer at the Amrita School of AI, focused on building scalable backend systems, MLOps pipelines, and proactive infrastructure. My work bridges the gap between machine learning research and production-grade deployment, with a focus on container orchestration and miniature language models.
 
-## Core Projects & Research
-* **Proactive Container Orchestration:** Implementing an intelligent scaling system using LSTM-based predictive models to optimize resource allocation and reduce latency in containerized environments.
-* **LLM Fine-Tuning (Falcon 3-1B):** Developed an end-to-end pipeline for fine-tuning and deploying miniature Large Language Models (LLMs) using HuggingFace and FastAPI.
-* **Bayesian Neural Networks (BNNs):** Researching efficient MCMC methods and symmetry in neural architectures to improve uncertainty estimation in predictive models.
-* **SDR Weather Imaging:** Utilizing Software Defined Radio (SDR) to decode real-time meteorological data from NOAA satellites.
+## Current Projects
+* **Proactive Container Orchestration:** Developing an intelligent scaling system using LSTM-based predictive models to optimize resource allocation in containerized environments.
+* **Mini-LLM-Forge:** End-to-end MLOps pipeline for fine-tuning and serving miniature Large Language Models (LLMs) using FastAPI and Docker.
+* **Bayesian Neural Networks (BNNs):** Researching efficient MCMC methods and symmetry in neural architectures to improve uncertainty estimation.
+* **SDR Weather Imaging:** Implementing Software Defined Radio (SDR) systems to decode real-time meteorological data from NOAA satellites.
 
 ## Technical Arsenal
 
 ### Primary Competencies
-* **Languages:** Python (Advanced), C++, JavaScript (ES6+), SQL
-* **Backend & Cloud:** FastAPI, Node.js, Docker, PostgreSQL
-* **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Vector Databases (ChromaDB)
-
-### Currently Learning & Developing
-* **Orchestration:** Kubernetes (K8s) and advanced Helm charting for proactive agents.
-* **Infrastructure:** Terraform and Cloud-native deployment workflows.
-* **LLM Optimization:** Quantization techniques and RAG pipeline architecture.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanakya-22&show_icons=true&theme=tokyonight" alt="Chanakya's GitHub Stats" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanakya-22&theme=tokyonight" alt="Chanakya's Streak Stats" />
+### Currently Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
 </p>
+
+## Education & Experience
+* **Student at Amrita School of AI:** Specializing in AI, Systems, and Software Engineering.
+* **Backend Engineering:** Designing RESTful APIs, containerizing microservices, and implementing CI/CD workflows.
