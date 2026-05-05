@@ -12,7 +12,7 @@
 ---
 
 ## About
-I am a Software Engineer at the Amrita School of AI, focused on building scalable backend systems, MLOps pipelines, and proactive infrastructure. My work bridges the gap between machine learning research and production-grade deployment, with a focus on container orchestration and miniature language models.
+I am an Engineer at the Amrita School of AI, focused on building scalable backend systems, MLOps pipelines, and proactive infrastructure. My work bridges the gap between machine learning research and production-grade deployment, with a focus on container orchestration and miniature language models.
 
 ## Current Projects
 * **Proactive Container Orchestration:** Developing an intelligent scaling system using LSTM-based predictive models to optimize resource allocation in containerized environments.
