@@ -11,7 +11,7 @@
 
 ---
 
-## About
+## About (Whatever frameworks are here I'm still learning them, let's say I'm familiar with them 🙏🙏🙏)
 I am an Engineer at the Amrita School of AI, focused on building scalable backend systems, MLOps pipelines, and proactive infrastructure. My work bridges the gap between machine learning research and production-grade deployment, with a focus on container orchestration and miniature language models.
 
 ## Current Projects
