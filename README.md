@@ -1,17 +1,17 @@
 # Chanakya
 
-### 🧑‍💻 Who am I?
+###  Who am I?
 I spend half my time arguing with myself and the other half explaining to my friends that AI isn't going to steal their jobs (yet). I turn copious amounts of caffeine into slightly buggy code, and I firmly believe that "turning it off and on again" is a highly advanced engineering strategy. When I'm not accidentally creating an infinite loop, I'm usually staring at my screen wondering why my code suddenly works when I literally changed nothing. So just a regular everyday normal guy 🙏🙏
 
 ---
 
-### 🎓 Academic Background
+###  Academic Background
 **Course:** AI and Data Science  
 **Institution:** Amrita Vishwa Vidyapeetham
 
 ---
 
-### 🏗️ Core Building Abilities
+###  Core Building Abilities
 *   **Backend Engineering:** Architecting robust, scalable APIs and integrating vector databases for AI applications.
 *   **ML Pipelines & MLOps:** Building end-to-end pipelines for training, fine-tuning (like QLoRA), and deploying Large Language Models.
 *   **Edge AI & TinyML:** Optimizing machine learning models to run efficiently on resource-constrained microcontrollers and edge devices.
@@ -20,7 +20,7 @@ I spend half my time arguing with myself and the other half explaining to my fri
 
 ---
 
-### 🧰 Technical Arsenal
+###  Technical Arsenal
 *(Still learning and familiar with these frameworks!)*
 
 **Languages**  
@@ -60,13 +60,13 @@ I spend half my time arguing with myself and the other half explaining to my fri
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 *   **Email:** [chanakya.jarubula@gmail.com](mailto:chanakya.jarubula@gmail.com)
 *   **LinkedIn:** [Reach out on LinkedIn](https://www.linkedin.com/in/chanakya-jarubula/) *(Update with your exact URL)*
 
 ---
 
-### 🚀 Best Projects
+###  Best Projects
 
 *   **Mini-LLM-Forge:** An MLOps pipeline engineered for the efficient fine-tuning of 1B-parameter large language models.
 *   **Eztract:** A search engine utilizing advanced machine learning for semantic, vibe-based similarity search and retrieval.
@@ -78,7 +78,7 @@ I spend half my time arguing with myself and the other half explaining to my fri
 
 ---
 
-### 📈 Education & Experience
+###  Education & Experience
 
 **B.Tech in Artificial Intelligence and Data Science**  
 *Amrita Vishwa Vidyapeetham*
