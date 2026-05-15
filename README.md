@@ -1,49 +1,91 @@
 # Chanakya
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chanakya-k-s-792017181" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30" />
-  </a>
-  <a href="mailto:chanakya.jarubula@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" height="30" />
-  </a>
-</p>
+### 🧑‍💻 Who am I?
+I spend half my time arguing with myself and the other half explaining to my friends that AI isn't going to steal their jobs (yet). I turn copious amounts of caffeine into slightly buggy code, and I firmly believe that "turning it off and on again" is a highly advanced engineering strategy. When I'm not accidentally creating an infinite loop, I'm usually staring at my screen wondering why my code suddenly works when I literally changed nothing. So just a regular everyday normal guy 🙏🙏
 
 ---
 
-## About (Whatever frameworks are here I'm still learning them, let's say I'm familiar with them 🙏🙏🙏)
-I am an Engineer at the Amrita School of AI, focused on building scalable backend systems, MLOps pipelines, and proactive infrastructure. My work bridges the gap between machine learning research and production-grade deployment, with a focus on container orchestration and miniature language models.
+### 🎓 Academic Background
+**Course:** AI and Data Science  
+**Institution:** Amrita Vishwa Vidyapeetham
 
-## Current Projects
-* **Proactive Container Orchestration:** Developing an intelligent scaling system using LSTM-based predictive models to optimize resource allocation in containerized environments.
-* **Mini-LLM-Forge:** End-to-end MLOps pipeline for fine-tuning and serving miniature Large Language Models (LLMs) using FastAPI and Docker.
-* **Bayesian Neural Networks (BNNs):** Researching efficient MCMC methods and symmetry in neural architectures to improve uncertainty estimation.
-* **SDR Weather Imaging:** Implementing Software Defined Radio (SDR) systems to decode real-time meteorological data from NOAA satellites.
+---
 
-## Technical Arsenal
+### 🏗️ Core Building Abilities
+*   **Backend Engineering:** Architecting robust, scalable APIs and integrating vector databases for AI applications.
+*   **ML Pipelines & MLOps:** Building end-to-end pipelines for training, fine-tuning (like QLoRA), and deploying Large Language Models.
+*   **Edge AI & TinyML:** Optimizing machine learning models to run efficiently on resource-constrained microcontrollers and edge devices.
+*   **Predictive Infrastructure:** Designing physics-informed digital twins and proactive systems for industrial and container orchestration environments.
+*   **Search Architectures:** Developing semantic, context-aware, and vibe-based search engines.
 
-### Development & Core Pipelines
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+---
 
-### Currently Learning (MLOps & Infrastructure)
-* **Model Optimization:** Quantization (GGUF/EXL2) and LoRA/QLoRA fine-tuning for **Mini-LLM-Forge**.
-* **Orchestration:** Kubernetes (K8s) and Helm charting for proactive agent deployment.
-* **Vector Architectures:** RAG (Retrieval-Augmented Generation) and semantic search using ChromaDB.
-* **Infrastructure as Code:** Terraform for automated provisioning of AI training environments.
+### 🧰 Technical Arsenal
+*(Still learning and familiar with these frameworks!)*
 
-## Education & Experience
-* **Student at Amrita School of AI:** Specializing in AI, Systems, and Software Engineering.
-* **Backend Engineering:** Designing RESTful APIs, containerizing microservices, and implementing CI/CD workflows.
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) 
+
+**AI & Machine Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F9AB00?style=flat&logo=huggingface&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Infrastructure & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+---
+
+### 🌐 Connect With Me
+*   **Email:** [chanakya.jarubula@gmail.com](mailto:chanakya.jarubula@gmail.com)
+*   **LinkedIn:** [Reach out on LinkedIn](https://www.linkedin.com/in/chanakya-jarubula/) *(Update with your exact URL)*
+
+---
+
+### 🚀 Best Projects
+
+*   **Mini-LLM-Forge:** An MLOps pipeline engineered for the efficient fine-tuning of 1B-parameter large language models.
+*   **Eztract:** A search engine utilizing advanced machine learning for semantic, vibe-based similarity search and retrieval.
+*   **AssetGuard AI:** A physics-informed digital twin framework tailored for industrial predictive maintenance.
+*   **Proactive Container Orchestration:** A predictive system utilizing LSTM networks deployed on Docker Swarm to prevent resource deadlocks.
+*   **Deep Blue:** A Socratic AI-powered coding education platform designed to bridge the gap between algorithmic logic and syntax.
+*   **TinyML Predictive Maintenance:** An edge-computing fault detection system running real-time analysis directly on microcontrollers.
+*   **Smart India Hackathon 2024 (Team Laksh):** A technological tracking solution focused on modernizing railway systems and infrastructure.
+
+---
+
+### 📈 Education & Experience
+
+**B.Tech in Artificial Intelligence and Data Science**  
+*Amrita Vishwa Vidyapeetham*
+
+**Challenges I Tackle & Projects I Can Work With:**
+I specialize in the intersection of intelligent models and practical, scalable systems. I thrive on challenges involving:
+1.  **Bridging the Gap:** Connecting complex machine learning inferences with fast, reliable backend systems (FastAPI, Postgres).
+2.  **Resource Constraints:** Optimizing heavy computational tasks to run on edge devices, microcontrollers, or strict hardware limits (TinyML, QLoRA).
+3.  **Predictive Infrastructure:** Building systems that anticipate failures before they happen, whether in software architectures (Docker Swarm deadlocks) or industrial hardware (Digital Twins).
+4.  **Generative AI Integration:** Implementing RAG pipelines, vector databases, and semantic search tools to build intelligent, context-aware applications.
