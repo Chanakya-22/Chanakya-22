@@ -21,7 +21,7 @@ I spend half my time arguing with myself and the other half explaining to my fri
 ---
 
 ###  Technical Arsenal
-*(Still learning and familiar with these frameworks!)*
+*(Still learning 🙏🙏 and familiar with these frameworks!)*
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -62,7 +62,7 @@ I spend half my time arguing with myself and the other half explaining to my fri
 
 ###  Connect With Me
 *   **Email:** [chanakya.jarubula@gmail.com](mailto:chanakya.jarubula@gmail.com)
-*   **LinkedIn:** [Reach out on LinkedIn](https://www.linkedin.com/in/chanakya-jarubula/) *(Update with your exact URL)*
+*   **LinkedIn:** [Reach out on LinkedIn](https://www.linkedin.com/in/chanakya-jarubula/) 
 
 ---
 
