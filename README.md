@@ -1,7 +1,7 @@
 # Chanakya
 
 ###  Who am I?
-I spend half my time arguing with myself and the other half explaining to my friends that AI isn't going to steal their jobs (yet). I turn copious amounts of caffeine into slightly buggy code, and I firmly believe that "turning it off and on again" is a highly advanced engineering strategy. When I'm not accidentally creating an infinite loop, I'm usually staring at my screen wondering why my code suddenly works when I literally changed nothing. So just a regular everyday normal guy 🙏🙏
+When I'm not accidentally creating an infinite loop, I'm usually staring at my screen wondering why my code suddenly works when I literally changed nothing. So just a regular everyday normal guy 🙏🙏
 
 ---
 
@@ -66,15 +66,13 @@ I spend half my time arguing with myself and the other half explaining to my fri
 
 ---
 
-###  Best Projects
+### I've Worked On
 
 *   **Mini-LLM-Forge:** An MLOps pipeline engineered for the efficient fine-tuning of 1B-parameter large language models.
 *   **Eztract:** A search engine utilizing advanced machine learning for semantic, vibe-based similarity search and retrieval.
 *   **AssetGuard AI:** A physics-informed digital twin framework tailored for industrial predictive maintenance.
 *   **Proactive Container Orchestration:** A predictive system utilizing LSTM networks deployed on Docker Swarm to prevent resource deadlocks.
-*   **Deep Blue:** A Socratic AI-powered coding education platform designed to bridge the gap between algorithmic logic and syntax.
 *   **TinyML Predictive Maintenance:** An edge-computing fault detection system running real-time analysis directly on microcontrollers.
-*   **Smart India Hackathon 2024 (Team Laksh):** A technological tracking solution focused on modernizing railway systems and infrastructure.
 
 ---
 
@@ -84,8 +82,7 @@ I spend half my time arguing with myself and the other half explaining to my fri
 *Amrita Vishwa Vidyapeetham*
 
 **Challenges I Tackle & Projects I Can Work With:**
-I specialize in the intersection of intelligent models and practical, scalable systems. I thrive on challenges involving:
-1.  **Bridging the Gap:** Connecting complex machine learning inferences with fast, reliable backend systems (FastAPI, Postgres).
-2.  **Resource Constraints:** Optimizing heavy computational tasks to run on edge devices, microcontrollers, or strict hardware limits (TinyML, QLoRA).
-3.  **Predictive Infrastructure:** Building systems that anticipate failures before they happen, whether in software architectures (Docker Swarm deadlocks) or industrial hardware (Digital Twins).
-4.  **Generative AI Integration:** Implementing RAG pipelines, vector databases, and semantic search tools to build intelligent, context-aware applications.
+1. Connecting complex machine learning inferences with fast, reliable backend systems (FastAPI, Postgres).
+2. Optimizing heavy computational tasks to run on edge devices, microcontrollers, or strict hardware limits (TinyML, QLoRA).
+3. Building systems that anticipate failures before they happen, whether in software architectures (Docker Swarm deadlocks) or industrial hardware (Digital Twins).
+4. Implementing RAG pipelines, vector databases, and semantic search tools to build intelligent, context-aware applications.
